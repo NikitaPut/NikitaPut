@@ -17,6 +17,8 @@
 - Data Processing
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NikitaPut&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NikitaPut)
+![trophy](https://github-profile-trophy.vercel.app/?username=NikitaPut)
 
 ## 📫 Контакты
 [![Email](https://img.shields.io/badge/-nikita.putintsev@gmail.com-00ff00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](nikita.putintsev@gmail.com)
